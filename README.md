@@ -1,0 +1,1 @@
+# alura-entity-core-base
